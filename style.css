@@ -1,0 +1,17 @@
+body{
+    background: rgb(201, 251, 255);
+    color: rgb(199, 139, 255);
+}
+.name_of_m,#result_object_name,#result_object_accuracy{
+    
+    color: rgb(255, 176, 242)2;
+}
+#camera{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+.pic,.find{
+background-color: rgb(255, 158, 210);
+color: indigo;
+}
